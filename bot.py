@@ -6,7 +6,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # --- CONFIGURATION ---
 API_ID =  24435985  # Replace with your API ID
 API_HASH = "0fec896446625478537e43906a4829f8"  # Replace with your API Hash
-BOT_TOKEN = "your_bot_token_here"  # Replace with your Bot Token
+BOT_TOKEN = ""  # Replace with your Bot Token
 
 app = Client(
     "ChannelEditorBot",
